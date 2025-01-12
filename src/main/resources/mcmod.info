@@ -1,0 +1,11 @@
+[
+{
+  "modid": "usernamehighlight",
+  "name": "Username Highlight",
+  "description": "Highlights your username in chat.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "www.littleprogrammer.dev",
+  "authorList": ["littleprogrammer"]
+}
+]
